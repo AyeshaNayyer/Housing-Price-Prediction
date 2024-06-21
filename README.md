@@ -1,6 +1,6 @@
 # Housing Price Prediction Model
 
-This repository contains a housing price prediction model. The dataset used here was from a private Kaggle competition and is inspired by the original Russian Housing Price Prediction dataset hosted on Kaggle. The dataset can be accessed through Google Drive links provided below. The model with the highest accuracy is a LightGBM model, which was selected after multiple tests. Other models explored include different types of boosting algorithms, ANNs, and linear regression models.
+This repository contains a housing price prediction model. The dataset used here was from a private Kaggle competition and is inspired by the original Russian Housing Price Prediction dataset hosted on Kaggle. The dataset can be accessed through Google Drive links provided below. The model with the highest accuracy is a LightGBM model, which was selected after multiple tests. Other models explored include different types of boosting algorithms, ANNs, and linear regression models.. When experimenting with other models, various other preprocessing techninques were used which included different types of imputations and encoding, different techniques of feature engineering etc. but the model posted publicly here uses log transformation,label encoding, scaling and PCA.
 
 ## Dataset
 
